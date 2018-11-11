@@ -1,6 +1,6 @@
 # Pillow
 
-This tutorial is taken from Kenneth Love, Python instructor at [Treehouse](https://teamtreehouse.com).  Treehouse has been my top resource for learning and practicing not only Python, but VCS using Git, Bash commands, and computer science courses such as algorithms and data structures.  I can't recommend it highly enough!
+(*This tutorial is taken from Kenneth Love, Python instructor at [Treehouse](https://teamtreehouse.com).  Treehouse has been my top resource for learning and practicing not only Python, but VCS using Git, Bash commands, and computer science courses such as algorithms and data structures.  There's so much more at Treehouse -- I can't recommend it highly enough!*)
 
 Pillow is the successor to PIL, the Python Imaging Library.
 
