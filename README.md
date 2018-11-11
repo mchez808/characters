@@ -12,4 +12,5 @@ Some initial questions:
 
 * Is it possible to automatically convert ancient handwriting to modern characters?
 
+(Source: [Portland Data Science Group](https://www.meetup.com/Portland-Data-Science-Group/events/256041333/). All rights reserved.)
 
